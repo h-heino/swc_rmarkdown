@@ -1,0 +1,7 @@
+name: "Fancy website"
+output_dir: "."
+navbar:
+  title: "My Attempted Website"
+  left:
+    - text: "Home"
+      href: index.html
